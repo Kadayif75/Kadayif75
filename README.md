@@ -21,5 +21,5 @@
 ## 🧠 Fun Facts
 - Writes code for fun (yes, willingly)  
 - Breaks things → fixes them → repeats  
-- Coffee is basically my API (I dont drinkt coffee..)
+- Coffee is basically my API (I dont drink coffee..)
 
